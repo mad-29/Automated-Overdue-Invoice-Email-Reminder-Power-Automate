@@ -117,10 +117,16 @@ overdue-invoice-automation/
     └── email_sample.png
 ```
 
----
+<img width="848" height="345" alt="{4C846060-42B0-4EA0-9241-2AD3568FFA3A}" src="https://github.com/user-attachments/assets/65af9eba-53f7-4aee-8410-07e7087d8889" />
 
-## Author
+<img width="558" height="346" alt="{2DF3B80A-4509-4061-B2B6-238EA47C7052}" src="https://github.com/user-attachments/assets/aab081a3-cd3e-4678-b136-0f0bd66b48e0" />
 
-**Madhumitha Sethuraman**
-Master of Business Information Systems — Swinburne University of Technology
-[LinkedIn](#) | [GitHub](#)
+<img width="607" height="354" alt="{88E7BAA3-B528-429F-A373-F9EC1610785B}" src="https://github.com/user-attachments/assets/03b4b8b9-a297-4c59-8194-3ff64934e79a" />
+
+<img width="478" height="239" alt="{0529223C-34AF-4EE2-8F40-2AB15E86AC1E}" src="https://github.com/user-attachments/assets/82a7533b-d4e0-49f3-bddb-e3bed15f4550" />
+
+
+
+
+
+
